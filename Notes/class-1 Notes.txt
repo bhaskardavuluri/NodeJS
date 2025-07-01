@@ -1,0 +1,23 @@
+NODEJS NOTES: Date:-30/6/2025
+=================================
+**Definition:-Node is a JavaScript run time environment.
+if we want to run the JavaScript program outside the browser we need node..
+"opensource and cross platform runtime environment".//main definition
+"NodeJS is synchronous and asynchronous.."  
+
+--------------------------------------------------------------------------------
+**npm:-node package manager 
+->it contains all the 1)3rd party python packages 
+                      2)3rd party java packages
+		      3)3rd party maven packages
+->To install 3rd party packages we will use npm..
+>cmd:-npm i _____________(package name).
+-----------------------------------------------------------------------------------------------------------
+->synchronous:-executes only one thing/request at a time(blocking others request)..we can take bank as an example
+->asynchronous:-executing multiple things/requests at a time(Non-blocking others request) we can take pizza shop example.
+--------------------------------------------------------------------------------------------------------------------------
+**How to achieve asynchronous programming:-1)callback
+                                           2)promise 
+				           3)Async/Await
+---------------------------------------------------------------------------------------------------------------------------
+**callback-callback is nothing but passing function as a argument..
